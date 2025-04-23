@@ -1,2 +1,2 @@
 # BurpLoaderKeygen
-基于jDK21的BurpLoaderKeygen
+基于JDK21的BurpLoaderKeygen
